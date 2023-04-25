@@ -42,5 +42,6 @@ Here are some ideas to get you started:
 # Operating system:
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
+# My stats:
 ![Nina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninaKroft&show_icons=true&theme=radical)
 
