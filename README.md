@@ -43,4 +43,5 @@ Here are some ideas to get you started:
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 [![Nina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninaKroft)](https://github.com/ninaKroft/github-readme-stats)
+![Nina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninaKroft&show_icons=true&theme=radical)
 
