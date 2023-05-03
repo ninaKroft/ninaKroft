@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
      
-![Banner](/images/image.png "Text to show on mouseover")
+![Banner](/images/GithubBanner.png "Text to show on mouseover")
 
 
 # Browsers:
