@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
      
-![image](files://ninaKroft/ninaKroft/images/GithubBanner.png)
+![image](files://C:images/GithubBanner.png)
 
 # Browsers:
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
