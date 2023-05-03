@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- ![Banner](/images/GithubBanner.png "Nina Kroft's banner") -->
 
 
-<img src="/images/GithubBanner.png" alt="Banner" width="1000" height="800" title="Banner">
+<img src="/images/GithubBanner.png" alt="Banner" width="800" height="500" title="Banner">
 
 # Browsers:
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
