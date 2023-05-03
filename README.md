@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="./images/Nina_Kroft.png"
-     alt="Banner"/>
+     
+![Banner](images://Nina Kroft.png)
 
 # Browsers:
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
