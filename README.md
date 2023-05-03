@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="width:100px; height:75px;">     
-![Banner](/images/GithubBanner.png "Nina Kroft's banner")
-</div>
+    
+<!-- ![Banner](/images/GithubBanner.png "Nina Kroft's banner") -->
 
-<img src="/images/GithubBanner.png" alt="Banner" width="50" height="60" title="Banner">
+
+<img src="/images/GithubBanner.png" alt="Banner" width="200" height="175" title="Banner">
 
 # Browsers:
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
