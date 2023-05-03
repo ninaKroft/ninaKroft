@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://raw.githubusercontent.com/ninaKroft/images/Nina Kroft.png)
+![](https://raw.githubusercontent.com/ninaKroft/ninaKroft/master/Nina Kroft.png)
 
 
 # Browsers:
