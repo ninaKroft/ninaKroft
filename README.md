@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="width:100px; height:75px">     
+<div style="width:100px; height:75px;">     
 ![Banner](/images/GithubBanner.png "Nina Kroft's banner")
 </div>
 
