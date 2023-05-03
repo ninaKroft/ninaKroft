@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-     
-![Banner](/images/GithubBanner.png "Text to show on mouseover")
-
+<div style="width:100px; height:75px">     
+![Banner](/images/GithubBanner.png "Nina Kroft's banner")
+</div>
 
 # Browsers:
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
