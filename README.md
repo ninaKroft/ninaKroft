@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ![Banner](/images/GithubBanner.png "Nina Kroft's banner")
 </div>
 
+<img src="/images/GithubBanner.png" alt="Banner" width="50" height="60" title="Banner">
+
 # Browsers:
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 
