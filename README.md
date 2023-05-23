@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 <img src="/images/GithubBanner.png" alt="Banner" width="1000" height="450" title="Banner">
 
+<p>Hello! My name is Nina, and I am currently a 10th grade student at Sacred Heart Highschool! I am learning coding languages such as python, PHP, HTML and CSS.</p>
+
 # Browsers:
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 
