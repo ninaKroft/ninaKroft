@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     
 <!-- ![Banner](/images/GithubBanner.png "Nina Kroft's banner") -->
 
-<p>Hello! My name is Nina, and I am currently a 12th grade student at Sacred Heart HighSchool! I am currently learning more about programming in Java.</p>
+<p>Hello! My name is Nina, and I am currently a 12th grade student at Sacred Heart High School! I am currently learning more about programming in Java.</p>
 
 # Browsers:
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
