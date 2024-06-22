@@ -18,10 +18,7 @@ Here are some ideas to get you started:
     
 <!-- ![Banner](/images/GithubBanner.png "Nina Kroft's banner") -->
 
-
-<img src="/images/GithubBanner.png" alt="Banner" width="1000" height="450" title="Banner">
-
-<p>Hello! My name is Nina, and I am currently a 10th grade student at Sacred Heart Highschool! I am learning coding languages such as python, PHP, HTML and CSS.</p>
+<p>Hello! My name is Nina, and I am currently a 12th grade student at Sacred Heart HighSchool! I am currently learning more about programming in Java.</p>
 
 # Browsers:
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
